@@ -4,4 +4,4 @@ Oraculo Analitycs
 Servicios especializados en Business Inteligence y Data Analytics.
 
 
-Vires un numeris !
+Vires in numeris !
